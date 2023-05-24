@@ -3,7 +3,7 @@
 :computer: I study computer science at the Technical University of Lodz, Poland.<br>
 :mag_right: I am keen on new technologies and ways to improve everything everywhere, especially in IT-related fields.
 
-## Tech stack, some tools that I am familiar with, and areas of interests
+## Tech stack, some tools that I am familiar with and areas of interests
 
 <a href="#">
   <img align="left" title="C" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/C_Language_Logo.svg" />
@@ -19,6 +19,8 @@
        src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg"/>
   <img align="left" title="JavaScript" alt="JS" width="30px" 
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" title="Java" alt="Java" width="30px" height= "45px" 
+       src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
        <br><br>
   <img align="left" title="VSCode" alt="VSCode" width="30px" src="https://camo.githubusercontent.com/7f3d08d131eecd531d8303589356e546ac0362da2f451577fd6d45019d42a0b1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f35313270782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" />
   <img align="left" title="VisualStudio" alt="VisualStudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
