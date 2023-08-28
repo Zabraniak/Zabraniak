@@ -28,7 +28,9 @@ I'm Michał, a computer science student at the Technical University of Lodz, Pol
 
 ## Areas of Interest
 
-My interests span across various fields within the realm of computer science. I'm particularly excited about automation, which allows me to simplify people's lives. I also have a keen interest in cybersecurity, captivated by its complex and evolving landscape. My drive for streamlining workflows aligns with my experience as a dedicated community manager for the past 5 years, where I've concentrated on enhancing processes and nurturing a strong sense of teamwork and collaboration. Additionally, I'm highly receptive to criticism and open to continuous improvement — recognizing that perfection may be elusive, but each small step brings us closer to it!
+My interests span across various fields within the realm of computer science. I'm particularly excited about automation, which allows me to simplify people's lives. I also have a keen interest in cybersecurity, captivated by its complex and evolving landscape. My drive for streamlining workflows aligns with my experience as a dedicated community manager for the past 5 years, where I've concentrated on enhancing processes and nurturing a strong sense of teamwork and collaboration.
+
+Additionally, I'm highly receptive to criticism and open to continuous improvement — recognizing that perfection may be elusive, but each small step brings me closer to it!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabraniak)
 
