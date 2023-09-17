@@ -32,6 +32,6 @@ My interests span across various fields within the realm of computer science. I'
 
 Additionally, I'm highly receptive to criticism and open to continuous improvement — recognizing that perfection may be elusive, but each small step brings me closer to it!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabraniak)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabraniak&layout=compact&theme=dark)
 
 ### I am looking forward to exploring and contributing to the world of technology!
