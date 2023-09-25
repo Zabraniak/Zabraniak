@@ -34,4 +34,4 @@ Additionally, I'm highly receptive to criticism and open to continuous improveme
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabraniak&layout=compact&theme=dark)
 
-### I am looking forward to exploring and contributing to the world of technology!
+I am looking forward to exploring and contributing to the world of technology!
