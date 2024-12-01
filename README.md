@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-I'm Michał, a computer science student at the Technical University of Lodz, Poland. I'm passionate about exploring new technologies and finding ways to enhance various aspects, especially in IT-related fields. I love automating processes to make things more efficient.
+I'm Michał! A Computer Science graduate from the Technical University of Lodz, Poland, I focus on exploring new technologies and creating efficient solutions through process automation. With a strong foundation in IT and programming, I enjoy working on projects that optimize workflows and enhance productivity.
 
 # Stack, tools, IDEs, etc. listed by proficiency:
 
