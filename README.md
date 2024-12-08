@@ -16,9 +16,6 @@ I'm Michał! A Computer Science graduate from the Technical University of Lodz, 
 ## Cloud:
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/azure.svg" alt="Azure" width="60" height="60"/><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" alt="Docker" width="60" height="60"/><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/amazon.svg" alt="Amazon" width="60" height="60"/><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/gcloud.svg" alt="Google Cloud" width="60" height="60"/>
 
-## Frameworks:
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/boostrap.svg" alt="Bootstrap" width="60" height="60"/><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" alt="jQuery" width="60" height="60"/><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" alt="NodeJS" width="60" height="60"/><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/android.svg" alt="Android" width="60" height="60"/><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg" alt="Angular" width="60" height="60"/>
-
 ## Work organization:
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="60" height="60"/>
 
